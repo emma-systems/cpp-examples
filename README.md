@@ -1,2 +1,5 @@
-# cpp-examples
-Small examples and utilities in C++
+Small example code in C++ / Python.
+
+Focus:
+- basic algorithms
+- clean, readable code
